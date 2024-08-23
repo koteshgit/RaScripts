@@ -265,7 +265,6 @@ if (eCommercePlatform == "Shopify") {
     }
 }
 
-
 //(classifyQuery?.query_type == "PRODUCT_COMPARISON")
 print("heello");
 print("Hi");
